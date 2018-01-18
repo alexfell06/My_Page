@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recipe>Tested size: 10-12 servings; makes one 11-ounce loaf 10 to 12 slices
+
+<ingredients>INGREDIENTS
+<quantity unit="cup" volume="1.25">1 1/4 cups (160 grams)</quantity> <food_item type="starch">white bread flour</food_item>, plus more for dusting
+<quantity unit="cup" volume="0.25">1/4 cup (38 grams)</quantity> stone-ground <food_item type="starch">whole-wheat flour</food_item>
+<quantity unit="cup" volume="0.25">1/4 cup (32 grams)</quantity> stone-ground <food_item type="starch">whole rye flour</food_item>
+<quantity unit="teaspoon" volume="0.5">1/2 teaspoon</quantity> <food_item type="yeast">instant yeast or bread machine yeast</food_item>
+<quantity unit="teaspoon" volume="1">1 teaspoon</quantity> <food_item type="preservative"> table salt</food_item>
+<quantity unit="cup" volume="0.25">1/4 cup (55 grams)</quantity> <food_item type="liquid">dry fermented cider</food_item> (may substitute <food_item type="liquid">Pilsener beer</food_item>; see headnote)
+<quantity unit="cup" volume="0.5">1/2 cup (120 grams)</quantity> <food_item type="liquid" warmth="average">lukewarm water</food_item> (80 degrees), plus an optional 1 tablespoon</ingredients>
+
+<directions>DIRECTIONS
+<step n="1">Whisk together the <ingredient>flours</ingredient>, <ingredient>yeast</ingredient> and <ingredient>salt</ingredient> in a <container>mixing bowl</container>.</step> <step n="2">Combine the <ingredient>cider</ingredient> and <ingredient>water</ingredient> in a <container>liquid measuring cup</container>.</step>
+
+<step n="3">Add the liquid to the flour mixture; use a spatula or bench scraper or your hand moistened with water to blend them for about a <time>minute</time>. The dough should be shaggy yet cohesive.</step> <step n="4">Cover the bowl with a towel; let the dough rest for <time>20 minutes</time>.</step>
+
+<step n="5">Moisten your kneading hand. If the dough seems stiff, add the optional tablespoon of <ingredient>water</ingredient>. Stretch one edge of the dough (still in the bowl), then press it into the center of the bowl.</step> <step n="6">Repeat this about a dozen times, moving clockwise to catch all sides of the dough. (This should take <time>1 or 2 minutes</time>.</step>)
+
+<step n="7">Turn the dough over so the seams are on the bottom. Cover and let rest for <time>20 minutes</time>.</step> <step n="8">Repeat the clockwise stretching and folding two more times, with <time>20-minute</time> rests after each. Cover and refrigerate at least <time>8 hours</time> and up to <time>24 hours</time></step>. The dough should have doubled. If it hasn't, leave it on the counter until it does.
+
+<step n="9">Lightly flour a work surface. Use a pastry cloth or clean dish towel to line a round colander. Dust the cloth with flour.</step>
+
+<step n="10">Transfer the dough to the floured work surface. Fold the edges toward the center to create a round shape, turning it over so the seams are on the bottom. Let it rest for <time>5 minutes</time>, then transfer to the colander, seam side up.</step> <step n="11">Cover with a towel and let the dough rise for <time>1 1/2 hours</time>.</step>
+
+<step n="11"><time>Thirty minutes</time> before baking, place a cast-iron Dutch oven (lid on) or enameled cast-iron pot with a lid (on) in the oven; preheat to <temperature unit="degrees">475 degrees</temperature>.</step>
+
+<step n="12">Carefully remove the hot pot from the oven.</step>
+
+<step n="13">Turn the dough out onto the counter so the seams are on the bottom. Use kitchen scissors to make 8 snips on the top of the dough in an evenly spaced spoke pattern, each about <length unit="inch" size="0.25">1/4-inch</length> deep.</step> <step n="14">Lift the dough and carefully drop it into the hot pot. Immediately cover with the hot lid. Bake for <time>30 minutes</time>, then reduce the heat to <temperature unit="degrees">450 degrees</temperature>. Uncover and bake for <time>8 to 10 minutes</time> or until the crust is dark brown. Try to minimize the amount of time the oven door is open.</step>
+
+The bread is done when its internal temperature registers <temperature unit="degrees">205 degrees</temperature> on an instant-read thermometer and the loaf sounds hollow when knocked on the underside.
+
+<step n="15">Transfer the loaf to a wire rack to cool for at least <time>1 hour</time> before cutting.</step></directions>
+</recipe>
